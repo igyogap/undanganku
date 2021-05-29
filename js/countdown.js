@@ -1,4 +1,4 @@
-var countDate = new Date('may 3, 2021 01:26:00');
+var countDate = new Date('may 3, 2022 01:26:00');
 function resepsi() {
   var now = new Date().getTime();
   gap = countDate - now;
