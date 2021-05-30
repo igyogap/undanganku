@@ -19,8 +19,6 @@ body {
 /* banner */
 
 .banner {
-  height: auto;
-  width: auto;
   background-image: url('../img/foto-2.jpg');
   background-repeat: no-repeat;
   background-position: center;
